@@ -27,10 +27,10 @@
                         </button>
                     </div>
                     <div class="collapse navbar-collapse" id="topNavbar">
-                        <div class="col-md-4">
+                        <div class="col-md-3 col-xs-12">
                             <input type="text" placeholder="Start Typing To Search" id="domSearch">
                         </div>
-                        <div class="col-md-8 navbar-col">
+                        <div class="col-md-9 navbar-col">
                             <ul class="nav navbar-nav navbar-right">
                                 <li class="inner-link" data-value="">
                                     <a href="#"><i class="fas fa-university"></i> Home</a>
@@ -54,16 +54,19 @@
                                     <a href="#"><i class="fas fa-camera-retro"></i>Photography</a>
                                 </li>
                                 <li>
-                                    <a target ="_blank" href="https://www.facebook.com/karandeepvirk?ref=bookmarks"><i class="fab fa-facebook-f"></i> Facebook</a>
-                                </li>
-                                <li>
-                                    <a target ="_blank" href="https://www.linkedin.com/in/kv85/"><i class="fab fa-linkedin"></i> LinkedIn</a>
-                                </li>
-                                <li>
                                     <a href="images/business-card.png" download><i class="fas fa-download"></i> Business Card</a>
                                 </li>
                                 <li>
                                     <a href="documents/Karandeep_Virk.pdf" download><i class="fas fa-download"></i> Resume</a>
+                                </li>
+                                <li>
+                                    <a target ="_blank" href="https://www.facebook.com/karandeepvirk"><i class="fab fa-facebook-f"></i> Facebook</a>
+                                </li>
+                                <li>
+                                    <a target ="_blank" href="https://github.com/karandeepvirk85"><i class="fab fa-github"></i>GitHub</a>
+                                </li>
+                                <li>
+                                    <a target ="_blank" href="https://www.linkedin.com/in/kv85/"><i class="fab fa-linkedin"></i> LinkedIn</a>
                                 </li>
                             </ul>
                         </div>
@@ -74,7 +77,7 @@
         <!--Home Section--->
         <section>
             <div class="home-section inner-container">
-                <div class="col-md-3">
+                <div class="col-md-12">
                     <div class="image-section">
                         <div class="profile-image text-center" style="background-image: url('images/profile.jpg');"></div>
                     </div>
@@ -82,39 +85,6 @@
                     <a class="" target ="_blank" href="https://www.facebook.com/karandeepvirk?ref=bookmarks"><i class="fa-2x fab fa-facebook-f"></i> &nbsp; &nbsp;</a>
                     <a class="" target ="_blank" href="https://www.linkedin.com/in/kv85/"><i class="fa-2x fab fa-linkedin"></i>&nbsp; &nbsp;</a>
                     <a class="inner-link" data-value="contact" href="#"><i class="fa-2x fas fa-phone-square"></i>&nbsp; &nbsp;</a>
-                </div>
-                <div class="col-md-9 text-left">
-                    <ul>
-                    <li>
-                        As a highly-motivated computer professional and with over 9 years of combined experience
-                        in web development with 3 years working in Canada as a Programmer. I have the right tools to plan, execute, and deliver successful web applications on
-                        time and on budget.
-                    </li>
-                    <li>
-                        I have been working on job positions as a programmer, software developer since 2011. I have experience in web development using PHP, AJAX, MySQL, JavaScript, React, JQuery, Wordpress, Magento, Drupal, HTML5, Sass.
-                    </li>
-                    <li>
-                        I’ve built websites for consultants, realtors, dozens of businesses, non-profits organization
-                        and more. I have experience with famous API’s including internal and third party APIs (REST,SOAP, JSON).
-                    </li>
-                    <li>
-                        I have done Core PHP backend development using Cake PHP, CodeIgniter, Laravel and Zend. I have implemented various end to end Payment and CRM APIs such as PayPal PRO, Stripe, Autherize.net, Elavon, Solve 360, Constant Contact, Mailchimp, Pipedrive, Lasso. 
-                        I have my own PHP custom frameworks as well. I have the capability to solve complex problems. I am very good
-                        learner and strong in logics. I have expereince with all the google technologies  such as Transit API, Map API.
-                        You can see my latest Google map project <a target="_blank" href ="https://www.kootenayrockies.com/roadtrips/">here.</a> 
-                    </li>
-                    <li>
-                        My goal in life Is learning and grasping knowledge not limited to learning syntax, but every
-                        aspect of software development life cycle whether its designing or testing. I am aware about every technology in computer science that is emerging. I like Web development because
-                        this the only medium to reach out every person in the world as we are becoming platform
-                        independent day by day. We are eliminating hardware’s with cloud computing. I work hard
-                        to grow with the pace of growing technology.
-                    </li>
-                    <li>I love travelling, Zoning out wit music with my work. You can download my <a target="_blank" href="documents/Karandeep_Virk.pdf"> resume</a> for your review and request a meeting to discuss the
-                        opportunity further. I am willing to relocate and I will make myself available at your
-                        convenience and look forward to your call to arrange a time. Thank you for your time and
-                        consideration.
-                    </li>
                 </div>
             </div>
         </section>
@@ -173,27 +143,20 @@
                 <div class="container-fluid job-container">
                     <div class="crow">
                         <div class="trolumn">
-                            <a href="images/extra-image1.jpg"><img src="images/extra-image1.jpg"></a>
-                            <a href="images/extra-image2.jpg"><img src="images/extra-image2.jpg"></a>
-                            <a href="images/extra-image3.jpg"><img src="images/extra-image3.jpg"></a>
-                            <a href="images/extra-image5.jpg"><img src="images/extra-image5.jpg"></a>
+                            <a href="images/image-show7.jpg"><img src="images/image-show7.jpg"></a>
+                            <a href="images/image-show1.jpg"><img src="images/image-show1.jpg"></a>
                         </div>
                         <div class="trolumn">
-                            <a href="images/extra-image6.jpg"><img src="images/extra-image6.jpg"></a>
-                            <a href="images/extra-image4.jpg"><img src="images/extra-image4.jpg"></a>
-                            <a href="images/extra-image7.jpg"><img src="images/extra-image7.jpg"></a>
+                            <a href="images/image-show3.jpg"><img src="images/image-show3.jpg"></a>
+                            <a href="images/image-show4.jpg"><img src="images/image-show4.jpg"></a>
                         </div>
                         <div class="trolumn">
-                            <a href="images/extra-image13.jpg"><img src="images/extra-image13.jpg"></a>
-                            <a href="images/extra-image9.jpg"><img src="images/extra-image9.jpg"></a>
-                            <a href="images/extra-image16.jpg"><img src="images/extra-image16.jpg"></a>
-                            <a href="images/extra-image12.jpg"><img src="images/extra-image12.jpg"></a>
+                            <a href="images/image-show5.jpg"><img src="images/image-show5.jpg"></a>
+                            <a href="images/image-show6.jpg"><img src="images/image-show6.jpg"></a>
                         </div>
                         <div class="trolumn">
-                            <a href="images/extra-image15.jpg"><img src="images/extra-image15.jpg"></a>
-                            <a href="images/extra-image10.jpg"><img src="images/extra-image10.jpg"></a>
-                            <a href="images/extra-image11.jpg"><img src="images/extra-image11.jpg"></a>
-                            <a href="images/extra-image14.jpg"><img src="images/extra-image14.jpg"></a>
+                            <a href="images/image-show2.jpg"><img src="images/image-show2.jpg"></a>
+                            <a href="images/image-show8.jpg"><img src="images/image-show8.jpg"></a>
                         </div>
                     </div>
                 </div>
@@ -208,15 +171,50 @@
                 <div class="container-fluid job-container">
                     <div class="row">
                         <div class="col-md-12 job-column">
-                            <h2>*Client names and projects are avaliable on request only due to job policy*</h2>
+                            <h2>*Client names and projects are avaliable on request only (Listing Recents Projects Only)*</h2>
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-md-12 job-column">
-                            <h3>Here are some personal projects</h3>
+                            <h2><i class="fas fa-hand-point-right"></i> Personal Clients </h2>
                                 <ul>
-                                    <li><a target="_blank" href="http://jandahairstudio.ca">Hair Stuido React Website</a></li>
-                                    <li><a target="_blank" href="http://system-preview.dosacrepecafe.com/">JavaScript Reataurant POS System</a></li>
+                                    <li>
+                                        <h3>React and Wordpress REST API eCommerece Store</h3>
+                                        <a target="_blank" href="https://okanagantour.ca">(https://okanagantour.ca)</a>
+                                    </li>
+
+                                    <li>
+                                        <h3>React Website </h3>
+                                        <a target="_blank" href="https://jandahairstudio.ca">(https://jandahairstudio.ca)</a>
+                                    </li>
+
+                                    <li>
+                                        <h3>JavaScript Application</h3>
+                                        <a target="_blank" href="http://system-preview.dosacrepecafe.com/">JavaScript Reataurant POS System</a>
+                                    </li>
+                                </ul>
+
+                               <h2><i class="fas fa-hand-point-right"></i> At Navigator Multimedia Inc</h2>
+
+                                <ul>
+                                    <li>
+                                        <h3>Angular School Lunch Program Project</h3>
+                                        <a target="_blank" href="https://theschoolconcierge.com/">(https://theschoolconcierge.com/)</a>
+                                    </li>
+
+                                    <li>
+                                        <h3>UX Coding and Wordpress Plugin Development</h3>
+                                        <a target="_blank" href="https://www.athletictherapybc.ca/">(https://www.athletictherapybc.ca/)</a>
+                                    </li>
+
+                                    <li>
+                                        <h3>Google Map Road Trip Project</h3>
+                                        <a target="_blank" href="https://www.kootenayrockies.com/roadtrips/">(https://www.kootenayrockies.com/roadtrips/)</a>
+                                    </li>
+                                    <li>
+                                        <h3>UX Coding, Trails and Quiz</h3>
+                                        <a target="_blank" href="http://railtrails.navigatorpreview.com/take-quiz/?start=1">(http://railtrails.navigatorpreview.com/take-quiz/?start=1)</a>
+                                    </li>
                                 </ul>
                         </div>
                     </div>
